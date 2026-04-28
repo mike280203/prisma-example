@@ -1,0 +1,8 @@
+id;model;manufacturer;carrier_id
+1000;F/A-18E Super Hornet;Boeing;1000
+1010;E-2D Advanced Hawkeye;Northrop Grumman;1000
+1020;F-35C Lightning II;Lockheed Martin;1010
+1030;Rafale M;Dassault Aviation;1020
+1040;F-35B Lightning II;Lockheed Martin;1030
+1050;SH-60K;Mitsubishi Heavy Industries;1040
+1060;MiG-29K;Mikoyan;1050
